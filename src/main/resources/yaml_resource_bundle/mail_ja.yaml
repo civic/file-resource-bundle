@@ -1,0 +1,5 @@
+mail.title: メール件名
+mail.body: |
+  おはよう
+  こんにちは
+mail.foo: '2'

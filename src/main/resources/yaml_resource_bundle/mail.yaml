@@ -1,0 +1,5 @@
+mail.title: Mail Subject
+mail.body: |
+  Hello
+  World
+mail.foo: '1'

@@ -1,0 +1,3 @@
+propertiesファイルでリソースのファイル名管理をする例 ResourceBundleTest
+
+YamlResourceBundleを使う例  YamlResourceBundleTest
